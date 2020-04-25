@@ -2,7 +2,7 @@ Primitive Functions (Funções Primitivas)
 
 São procedimentos "embrulhados" a síntese da linguagem, isto é, funções que não 
 foram implementadas pelo usuário da linguagem, previamente disponíveis para criar
-outras funções. 
+outras funções.
 
-Fonte: stackoverflow.com
-       Sicp
+Fonte:  stackoverflow.com
+        Sicp
